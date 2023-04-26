@@ -65,7 +65,7 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨‍💻</font></font>/h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=tojoRz&show_icons=true&locale=en&bg_color=white&text_color=black&layout=compact"
     alt="tojoRz-pw" 
