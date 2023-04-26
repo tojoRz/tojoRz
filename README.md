@@ -1,9 +1,9 @@
 <h1 align="center">Hi there👋, I'm Tojo</h1>
-<h3 align="center">Student at IS-Info, Ampasamadinika🎓.</h3>
+<h3 align="center">I am a student🎓.</h3>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=tojoRz&color=0e75b6&style=blue"
+<p align="right"> <h3>Profile Views 👀</h3> <img src="https://komarev.com/ghpvc/?username=tojoRz&color=0e75b6&style=blue"
     alt="tojoRz-pw" /> 
   </p>
 
@@ -69,7 +69,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=tojoRz&show_icons=true&locale=en&bg_color=white&text_color=black&layout=compact" alt="tojoRz-pw" bg_color=#808080/></p>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tojoRz&show_icons=true&locale=en&bg_color=f2f4f7&text_color=black&repo=convoychat"
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tojoRz&show_icons=true&locale=en&bg_color=f2f4f7&text_color=black&repo=convoychat"
     alt="tojoRz-pw" /></p>
 
 <br>
