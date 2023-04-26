@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/tojoRz/tojoRz-pw/blob/main/tojoRz-pw.gif" height="100" width="100" alt="tojoRz-pw" /></p>
+<p><img align="right" src="https://github.com/tojoRz/tojoRz-pw/blob/main/tojoRz-pw.gif" height="300" width="400" alt="tojoRz-pw" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
