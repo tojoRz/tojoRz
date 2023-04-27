@@ -5,19 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tojoRz&color=0e75b6&style=blue"
     alt="tojoRz-pw" /> 
   </p>
-
-<br>
-
 <p><img align="right" src="https://github.com/tojoRz/tojoRz-pw/blob/main/tojoRz-pw.gif" height="300" width="400" alt="tojoRz-pw" /></p>
-
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **toojrazakanirina01@gmail.com**
 
 - ⚡ Fun fact :- Watching movies and Music🎵 are the reasons to live.
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
