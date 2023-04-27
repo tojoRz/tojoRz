@@ -27,13 +27,15 @@
 </p>
 
 <br>
-<h3>Statistical Data <font style="vertical-align: inherit;">👨‍💻</font></h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=tojoRz&show_icons=true&locale=en&bg_color=white&text_color=black&layout=compact" alt="tojoRz-pw" bg_color=#808080/></p>
+<h3>Statistical GitHub <font style="vertical-align: inherit;">👨‍💻</font></h3>
+<div align="center">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tojoRz&show_icons=true&locale=en&bg_color=white&text_color=black&layout=compact" alt="tojoRz-pw" bg_color=#808080/></p>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tojoRz&show_icons=true&locale=en&bg_color=f2f4f7&text_color=black&repo=convoychat"
+<p><img  src="https://github-readme-stats.vercel.app/api?username=tojoRz&show_icons=true&locale=en&bg_color=f2f4f7&text_color=black&repo=convoychat"
     alt="tojoRz-pw" /></p>
+</div>
+
 
 <br>
 
