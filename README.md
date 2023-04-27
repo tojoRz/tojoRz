@@ -28,9 +28,9 @@
 
 <br>
 <h3>Statisticals GitHub <font style="vertical-align: inherit;">👨‍💻</font></h3>
-<div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=tojoRz&show_icons=true&locale=en&bg_color=f2f4f7&text_color=black&repo=convoychat" alt="tojoRz-pw" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tojoRz&show_icons=true&locale=en&bg_color=white&text_color=black&layout=compact" alt="tojoRz-pw" bg_color=#808080/>
+<div align="left">
+  <img  src="https://github-readme-stats.vercel.app/api?username=tojoRz&show_icons=true&locale=en&bg_color=f2f4f7&text_color=black&repo=convoychat" alt="tojoRz-pw" height="100"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tojoRz&show_icons=true&locale=en&bg_color=white&text_color=black&layout=compact" alt="tojoRz-pw" bg_color=#808080 height="100"/>
 </div>
 
 
