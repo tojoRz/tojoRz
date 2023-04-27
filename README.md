@@ -65,7 +65,8 @@
       src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40"
       height="40" /> </a> </p>
 
-
-
+<br>
+<hr>
+<br>
 <h3 align="left">Thanks for visiting✊.</h3>
       
