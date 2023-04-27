@@ -2,7 +2,7 @@
 <h3 align="center">I am a student🎓.</h3>
 
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=tojoRz&color=0e75b6&style=blue"
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tojoRz&color=0e75b6&style=blue"
     alt="tojoRz-pw" /> 
   </p>
 
