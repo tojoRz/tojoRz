@@ -26,7 +26,7 @@
       alt="tojo_rz" height="30" width="40" /></a>
 </p>
 
-<h3>Statisticals GitHub <font style="vertical-align: inherit;">👨‍💻</font></h3>
+<h3>Github Stats<font style="vertical-align: inherit;">👨‍💻</font></h3>
 <div align="left">
   <img  src="https://github-readme-stats.vercel.app/api?username=tojoRz&show_icons=true&locale=en&bg_color=f2f4f7&text_color=black&repo=convoychat" alt="tojoRz-pw" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tojoRz&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=black*" alt="tojoRz-pw" />
