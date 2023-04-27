@@ -1,9 +1,8 @@
 <h1 align="center">Hi there👋, I'm Tojo</h1>
 <h3 align="center">I am a student🎓.</h3>
 
-<br>
 
-<p align="right"> <h3>Profile Views 👀</h3> <img src="https://komarev.com/ghpvc/?username=tojoRz&color=0e75b6&style=blue"
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tojoRz&color=0e75b6&style=blue"
     alt="tojoRz-pw" /> 
   </p>
 
@@ -32,6 +31,15 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="tojo_rz" height="30" width="40" /></a>
 </p>
+
+<br>
+<h3>Statistical Data <font style="vertical-align: inherit;">👨‍💻</font></h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=tojoRz&show_icons=true&locale=en&bg_color=white&text_color=black&layout=compact" alt="tojoRz-pw" bg_color=#808080/></p>
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tojoRz&show_icons=true&locale=en&bg_color=f2f4f7&text_color=black&repo=convoychat"
+    alt="tojoRz-pw" /></p>
 
 <br>
 
@@ -65,16 +73,7 @@
       src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="40"
       height="40" /> </a> </p>
 
-<br>
-<h3>Statistical Data <font style="vertical-align: inherit;">👨‍💻</font></h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=tojoRz&show_icons=true&locale=en&bg_color=white&text_color=black&layout=compact" alt="tojoRz-pw" bg_color=#808080/></p>
-<br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tojoRz&show_icons=true&locale=en&bg_color=f2f4f7&text_color=black&repo=convoychat"
-    alt="tojoRz-pw" /></p>
-
-<br>
 
 <h3 align="left">Thanks for visiting✊.</h3>
       
