@@ -29,7 +29,7 @@
 <h3>Statisticals GitHub <font style="vertical-align: inherit;">👨‍💻</font></h3>
 <div align="left">
   <img  src="https://github-readme-stats.vercel.app/api?username=tojoRz&show_icons=true&locale=en&bg_color=f2f4f7&text_color=black&repo=convoychat" alt="tojoRz-pw"  width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tojoRz&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=black&bg_color=f2f4f7" alt="tojoRz-pw" bg_color=#808080  width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tojoRz&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=black&bg_color=f2f4f7" alt="tojoRz-pw" bg_color=#808080 height="200" width="375"/>
 </div>
 
 
