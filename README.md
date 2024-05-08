@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tojoRz&color=0e75b6&style=blue"
     alt="tojoRz-pw" /> 
   </p>
-<p><img align="right" src="https://github.com/tojoRz/tojoRz-pw/blob/main/tojoRz-pw.gif" height="300" width="400" alt="tojoRz-pw" /></p>
-
+<!-- <p><img align="right" src="https://github.com/tojoRz/tojoRz-pw/blob/main/tojoRz-pw.gif" height="300" width="400" alt="tojoRz-pw" /></p>
+ -->
 - 🌱 J'apprends actuellement le développement Web et d'autres langages de programmation
 
 - 📫 Comment me joindre **toojrazakanirina01@gmail.com**
