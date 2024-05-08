@@ -13,8 +13,8 @@
 
 - ⚡ Fait amusant : - Regarder des films et de la musique🎵 sont les raisons de vivre.
 
-<h3 align="left">Connectez-vous avec moi :</h3>
-<!-- <p align="left">
+<!-- <h3 align="left">Connectez-vous avec moi :</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/tojo-razakanirina-343925273" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="tojo-razakanirina" height="30" width="40" /></a>
