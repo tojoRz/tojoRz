@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tojorz&label=Profile%20views&color=0e75b6&style=flat" alt="tojorz" /> </p>
 
-- 🌱 J'apprends actuellement **nextJs, Angular, PHP, symfony **
+- 🌱 J'apprends actuellement ** nextJs, Angular, PHP, symfony **
 
 - 👨‍💻 Tous mes projets sont disponibles sur [https://tojorz.netlify.app/](https://tojorz.netlify.app/)
 
-- 📫 Comment me joindre **toojrazakanirina01@gmail.com **
+- 📫 Comment me joindre ** toojrazakanirina01@gmail.com **
